@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "application-level": "node application-level.js",
+    "router-level": "node router-level.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ercan topuz",
