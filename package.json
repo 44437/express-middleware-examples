@@ -7,6 +7,7 @@
     "application-level": "node application-level.js",
     "router-level": "node router-level.js",
     "error-handling": "node error-handling.js",
+    "static-files": "node static-files.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ercan topuz",
